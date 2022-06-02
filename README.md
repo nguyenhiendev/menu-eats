@@ -1,7 +1,6 @@
 # uber_eats
 
-[A new Flutter project.](https://user-images.githubusercontent.com/62236030/171642844-68415d41-66e7-43ba-964b-0c8b6c57bc51.mp4
-)
+(https://user-images.githubusercontent.com/62236030/171642844-68415d41-66e7-43ba-964b-0c8b6c57bc51.mp4)
 
 ## Getting Started
 
