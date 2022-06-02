@@ -1,6 +1,6 @@
 # uber_eats
 
-(https://user-images.githubusercontent.com/62236030/171642844-68415d41-66e7-43ba-964b-0c8b6c57bc51.mp4)
+https://user-images.githubusercontent.com/62236030/171643476-541e484b-e2f4-4b98-9d1d-c8b419a706a9.mp4
 
 ## Getting Started
 
